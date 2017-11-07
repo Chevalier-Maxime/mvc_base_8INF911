@@ -1,5 +1,7 @@
 # mvc_base_8INF911
 
+Vous êtes libres d'utiliser ce code comme base pour vos projets et de le décliner à l'infini! M. Maitre est au courant et a confirmé qu'il ne considèrerait pas ça comme un plagiat.
+
 ### Installer le projet
 Sur MAMP/WAMP/XAMP ou autre serveur Apache virtuel:
 
